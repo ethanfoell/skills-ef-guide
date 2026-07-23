@@ -1,1 +1,1 @@
-Live demo: https://ethanfoell.github.io/skills-ef-plugin-demo/
+Live demo: https://ethanfoell.github.io/skills-ef-guide/
