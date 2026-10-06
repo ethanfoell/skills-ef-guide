@@ -1,6 +1,6 @@
 # skills-ef guide
 
-The interactive guide to [ethanfoell/skills](https://github.com/ethanfoell/skills): agent skills for Claude that apply engineering discipline to a financial analyst's work, for finance, files, code and the writing around them.
+The interactive guide to [ethanfoell/skills](https://github.com/ethanfoell/skills), published as the `skills-ef` plugin: agent skills for Claude that apply engineering discipline to a financial analyst's work, for finance, files, code and the writing around them.
 
 **Live at <https://ethanfoell.github.io/skills-ef-guide/>.**
 
